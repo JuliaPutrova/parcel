@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://JuliaPutrova.github.io/parsel",
+  "homepage": "https://JuliaPutrova.github.io/parcel",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parsel/"
+    "build": "parcel build src/*.html --public-url /parcel/"
   },
   "repository": {
     "type": "git",
